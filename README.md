@@ -1,6 +1,8 @@
 ### Hola! 👋
 ### Me llamo Kevin y soy Full Stack Develpoer :smile:
 
+Me gustan los retos, el trabajo en equipo y en mis tiempos de ocio, dedicarme a los juegos!
+
 Mis habilidades incluyen:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
