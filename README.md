@@ -1,7 +1,7 @@
 ### Hola! 👋
 ### Me llamo Kevin y soy Full Stack Develpoer :smile:
 
-### Mis habilidades incluyen:
+Mis habilidades incluyen:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -12,5 +12,5 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   
-  ### Contacto :envelope:
+  Contacto :envelope:
   Email: kevindeleonsilveira@gmail.com
