@@ -23,4 +23,5 @@ Cuento con conocimientos en control de versiones utilizando Git y colaboración 
 Si estás interesado en colaborar en proyectos emocionantes o tienes alguna oportunidad laboral, ¡no dudes en contactarme! Estaré encantado de ser parte de un equipo innovador y creativo.
   
 Contacto :envelope:
+
 Email: kevindeleonsilveira@gmail.com
